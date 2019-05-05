@@ -6,4 +6,5 @@ public class User {
     private String address;
     private int id;
     private String aaaa;
+    private String bbb;
 }
